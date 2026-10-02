@@ -3,7 +3,7 @@
  **`Analista de Desenvolvimento`**  
  
  <p align="left">
-  <BriefcaseIcon size={24} />
+  <a href="https://github.com/GersonGuedes?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
